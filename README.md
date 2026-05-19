@@ -70,7 +70,7 @@ python generate_attendance.py
 ```
 考勤脚本/
 ├── generate_attendance.py    # 主程序
-├── qiandao.docx             # 参考模板文件
+├── 某项目部门每周考勤表_2026年第21-25周.docx             # 参考模板文件
 ├── README.md                # 说明文档
 └── .gitignore               # Git忽略文件
 ```
